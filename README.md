@@ -1,6 +1,6 @@
 ![logo](https://github.com/nithish1204/nithish1204/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Nithish Reddy</h1>
-<h3 align="center">passionate about frontend developement from India</h3>
+<h3 align="center">Passionate about frontend developement</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish1204&label=Profile%20views&color=0e75b6&style=flat" alt="nithish1204" /> </p>
