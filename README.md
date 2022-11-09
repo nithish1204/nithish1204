@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish1204&label=Profile%20views&color=0e75b6&style=flat" alt="nithish1204" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nithish_1204" target="blank"><img src="https://img.shields.io/twitter/follow/nithish_1204?logo=twitter&style=for-the-badge" alt="nithish_1204" /></a> </p>
-<img width="1388" alt="image" src="https://user-images.githubusercontent.com/112855843/200777164-f4e5a1fb-62b0-4533-8216-c28abebae770.png">
 
 - 👨‍💻 My Personal Website [https://nithishwebsite.pythonanywhere.com](https://nithishwebsite.pythonanywhere.com)
 
