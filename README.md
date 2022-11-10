@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Personal Website [https://nithishwebsite.pythonanywhere.com](https://nithishwebsite.pythonanywhere.com)
 
-- 💬 Ask me about **Flask, Python, HTML**
+- 💬 Ask me about **Flask, HTML, CSS**
 
 - 📫 How to reach me **nithish1204@gmail.com**
 
