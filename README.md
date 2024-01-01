@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nithish_1204" target="blank"><img src="https://img.shields.io/twitter/follow/nithish_1204?logo=twitter&style=for-the-badge" alt="nithish_1204" /></a> </p>
 
-- 👨‍💻 My Personal Website [https://nithishwebsite.pythonanywhere.com](https://nithishwebsite.pythonanywhere.com)
+- 👨‍💻 My Personal Website [[https://nithishwebsite.pythonanywhere.com](https://nithish-portfolio-website.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS and JS**
 
